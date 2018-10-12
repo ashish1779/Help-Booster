@@ -15,10 +15,10 @@ Information regarding saftey methods in flood,earthquack, Cyclone,Tsunami. <br /
 Also provide Emergency contacts.
 
 #### Donations from people outside these area.
-In the tough time of disaster to provide facilites to the people in problems we need some funds and basic needs material (cloths,blankets etc). The people who wants to donate money through app and share the information regarding donantion of material to the admistrations.   <br />
-
+In the tough time of disaster to provide facilites to the people in problems we need some funds and basic needs material (cloths,blankets etc). The people who wants to donate money through app and share the information regarding donantion of material to the admistrations. <br />
+We had also done this feature in last code fun do app (https://drive.google.com/file/d/1BDK7d-eczhGPhVVte8R8HLBrDD4SKypZ/view?usp=drivesdk)
 #### Road Tracking
-During the disasters like flood and tsunami people who wants to from one place to another can not trace the road that it is in good condition or not.<br / >
+During the disasters like flood and tsunami people who wants to from one place to another can not trace the road that it is in good condition or not. <br / >
 The people who are near to road can assure on map by clicking green and red (green correspond to good and red correspond to danger) on segmented path i.e, roads will be divided into many small segments eg:- 15 meters. The people in that particular area can mark on that part of road.<br />
 Third option is that if no one os there to assign road is in good condition or not app will show yellow mark in that area i.e, not known <br />
 
@@ -28,3 +28,16 @@ In the app there will be a list of medicines and doctors availabe there. <br />
 Common interactive forum so that people can share theire medical problem as public or private so that doctor can open it and give suggestion to people.<br />
 Blood donation request can be send on common interactive platform.<br />
 Information to fight general health care (Dengue, swainflu and other dangerous virus)<br />
+
+#### Finding people during rescue mission by army or any organisation:-
+People under trouble open his wifi then he get a notification of the resuce team if they are under 50 meter range of that people.<br />
+##### Why this feature:- 
+Some time rescue team came and due to not seing any people who are in trouble they go ahead therefore this feature can help to recue each and every person.
+
+#### Share the condition of area by clicking pictures:-
+So that the resuce team can rescue accordingly.
+
+#### Team Name:- bOOST_uP
+#### Team Members:- 
+##### AVNEET JAIN
+##### ASHISH ANAND
